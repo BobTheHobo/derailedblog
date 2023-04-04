@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 params:
   title: Derailed
-  description: The home of Derailed, the AI assisted blog
+  description: derailed, a blog going off the rails
   keywords: [Blog]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
