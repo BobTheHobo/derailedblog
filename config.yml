@@ -1,0 +1,26 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: 🚂derailed🚃
+theme: "PaperMod"
+
+params:
+  title: Derailed
+  description: The home of Derailed, the AI assisted blog
+  keywords: [Blog]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  homeInfoParams:
+    Title: Hello there! 😊
+    Content: "This is derailed, an experimental blog and personal outlet! ⚠ Caution ⚠: Topics will vary widely and are often derailed."
+
+  socialIcons:
+    - name: "Twitter"
+      title: "@DerailedBlog"
+      url: "https://twitter.com/DerailedBlog"
+    - name: "Email"
+      title: "thederailedblog@gmail.com"
+      url: "mailto:thederailedblog@gmail.com"
+  
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
