@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🚂derailed🚃</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 🚂derailed🚃</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 05:31:41 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jack of All Trades</title>
+      <link>http://example.org/posts/jack_of_all_trades/</link>
+      <pubDate>Tue, 04 Apr 2023 05:31:41 -0400</pubDate>
+      
+      <guid>http://example.org/posts/jack_of_all_trades/</guid>
+      <description>&amp;ldquo;Jack of all trades, master of none, but oftentimes better than master of one&amp;rdquo; I ran into an Instagram reel that reminded me of this quote today, and it&amp;rsquo;s one that I have conflicting feelings about.
+The saying firstly reminds me of my father. He wanted my sister and I to be well versed in many things because that was what he thought prestigious colleges wanted. From a young age he had us enrolled in Stanford online math courses, Taekwondo, and piano; all things that he probably thought would help us become this multifaceted jack.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://example.org/posts/helloworld/</link>
+      <pubDate>Tue, 28 Mar 2023 21:11:47 -0400</pubDate>
+      
+      <guid>http://example.org/posts/helloworld/</guid>
+      <description>Oh my gosh, hello!
+Welcome you to derailed, a blog and personal outlet to share my musings with the world and to carve out my own little corner of the internet.
+As per the name, the content here will be extremely varied. Here, you&amp;rsquo;ll find everything tutorials and thoughts to opinion pieces and informative articles that will hopefully pique your interest.
+Whether you&amp;rsquo;re looking for a distraction or seeking thought-provoking content, I hope that derailed will deliver.</description>
+    </item>
+    
+  </channel>
+</rss>
